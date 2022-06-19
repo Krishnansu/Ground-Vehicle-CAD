@@ -5,3 +5,6 @@ The task was to make a ground vehicle chassis and outer shell with 4 wheels with
 
 ## Tech Stack :
 Solidworks
+
+## Files:
+The file for the final model of the vehicle can be found as AtulyaCompletCar.SLDASM
