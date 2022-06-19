@@ -20,7 +20,6 @@ The ground vehicle has space inside for placing desired electronic components an
 ## Note:
 The parts were created and assembled using Solidworks software.
 
-## Files:
-The file for the final model of the vehicle can be found as AtulyaCompletCar.SLDASM
+
 
 
